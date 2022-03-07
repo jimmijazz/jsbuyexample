@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.1",
+    "shopify-buy": "^2.14.0"
+  },
+  "type": "module",
+  "name": "js-buy",
+  "version": "1.0.0",
+  "main": "createCheckoutWithAttributes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
